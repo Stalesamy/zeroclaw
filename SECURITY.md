@@ -5,10 +5,10 @@
 Security fixes ship on the latest release line only. There are no maintenance
 branches, and earlier minor versions do not receive backported fixes.
 
-| Version                                              | Supported          |
-| ---------------------------------------------------- | ------------------ |
-| Latest release (`0.8.x` at the time of writing)      | :white_check_mark: |
-| Earlier minor versions (`0.7.x` and older)           | :x:                |
+| Version                    | Supported          |
+| -------------------------- | ------------------ |
+| Latest released minor line | :white_check_mark: |
+| Earlier minor lines        | :x:                |
 
 Upgrade to the latest release before reporting. If the issue still reproduces
 there, report it as described below.
