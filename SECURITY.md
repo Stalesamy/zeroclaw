@@ -10,6 +10,8 @@ branches, and earlier minor versions do not receive backported fixes.
 | Latest released minor line | :white_check_mark: |
 | Earlier minor lines        | :x:                |
 
+For example, if the latest release is `0.8.6`, the supported minor line is `0.8.x`; `0.7.x` and older lines are unsupported.
+
 Upgrade to the latest release before reporting. If the issue still reproduces
 there, report it as described below.
 
